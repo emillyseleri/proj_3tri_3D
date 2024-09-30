@@ -1,0 +1,20 @@
+body  {background-color: rgb(231, 29, 29);}
+.p1{text-align: center;}
+p1{border-style: double;
+    border-color: blue;
+     border-width: 5px;}
+h1{border-style: double;
+   border-color: blueviolet;
+   border-width: 5px;}
+h2{border-style: double;
+   border-color: brown;
+   border-width: 5px;}
+h3{border-style: double;
+   border-color: aqua;
+   border-width: 5px;}
+h4{border-style: double;
+   border-color: blue;
+   border-width: 5px;}
+h5{border-style: double;
+    border-color: beige;
+   border-width: 5px;}
